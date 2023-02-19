@@ -1,0 +1,148 @@
+[2023-02-19T00:35:07.981Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-02-19T00:35:08.239Z] [debug] [system] [init.js] : Master
+[2023-02-19T00:35:08.592Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-02-19T00:35:08.598Z] [debug] [neoxamainnet] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-02-19T00:35:08.599Z] [info] [neoxamainnet] [Pool [:1]] : Could not start pool, error with init batch RPC call: {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:35:09.991Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-02-19T00:35:10.878Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-02-19T00:35:10.876Z] [info] [system] [Website] : Starting Website module
+[2023-02-19T00:35:10.878Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-02-19T00:35:10.879Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-02-19T00:35:10.880Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-02-19T00:35:10.886Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:8080
+[2023-02-19T00:35:10.976Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:8080
+[2023-02-19T00:35:10.983Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for neoxamainnet , err = {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:35:10.981Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-02-19T00:35:10.987Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> FEE % = NEOXAMAINNET
+[2023-02-19T00:35:10.983Z] [info] [system] [PaymentProcessing] : PP> Enabled neoxamainnet for payment processing
+[2023-02-19T00:35:11.078Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results false
+[2023-02-19T00:35:11.073Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> minPayment = NEOXAMAINNET
+[2023-02-19T00:35:11.073Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> paymentInterval = NEOXAMAINNET
+[2023-02-19T00:35:11.073Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> Validating address and balance
+[2023-02-19T00:35:11.078Z] [error] [neoxamainnet] [PaymentProcessor] : PP>ERROR> Error with payment processing daemon {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:35:11.078Z] [error] [neoxamainnet] [PaymentProcessor] : PP>ERROR> There was error during payment processor setup true
+[2023-02-19T00:36:06.687Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-02-19T00:36:06.946Z] [debug] [system] [init.js] : Master
+[2023-02-19T00:36:07.283Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-02-19T00:36:07.290Z] [debug] [neoxamainnet] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-02-19T00:36:07.290Z] [info] [neoxamainnet] [Pool [:1]] : Could not start pool, error with init batch RPC call: {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:36:08.699Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-02-19T00:36:09.391Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-02-19T00:36:09.389Z] [info] [system] [Website] : Starting Website module
+[2023-02-19T00:36:09.391Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-02-19T00:36:09.392Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-02-19T00:36:09.392Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-02-19T00:36:09.473Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:8080
+[2023-02-19T00:36:09.481Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:8080
+[2023-02-19T00:36:09.487Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for neoxamainnet , err = {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:36:09.480Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-02-19T00:36:09.484Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> FEE % = NEOXAMAINNET
+[2023-02-19T00:36:09.482Z] [info] [system] [PaymentProcessing] : PP> Enabled neoxamainnet for payment processing
+[2023-02-19T00:36:09.574Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results false
+[2023-02-19T00:36:09.485Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> minPayment = NEOXAMAINNET
+[2023-02-19T00:36:09.485Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> paymentInterval = NEOXAMAINNET
+[2023-02-19T00:36:09.486Z] [debug] [neoxamainnet] [PaymentProcessor] : PP> Validating address and balance
+[2023-02-19T00:36:09.573Z] [error] [neoxamainnet] [PaymentProcessor] : PP>ERROR> Error with payment processing daemon {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:36:09.574Z] [error] [neoxamainnet] [PaymentProcessor] : PP>ERROR> There was error during payment processor setup true
+[2023-02-19T00:39:02.805Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-02-19T00:39:03.063Z] [debug] [system] [init.js] : Master
+[2023-02-19T00:39:03.402Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-02-19T00:39:03.408Z] [debug] [sin test] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-02-19T00:39:03.409Z] [info] [sin test] [Pool [:1]] : Could not start pool, error with init batch RPC call: {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:39:04.817Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-02-19T00:39:05.488Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-02-19T00:39:05.492Z] [debug] [sin test] [PaymentProcessor] : PP> FEE % = SIN TEST
+[2023-02-19T00:39:05.490Z] [info] [system] [PaymentProcessing] : PP> Enabled sin test for payment processing
+[2023-02-19T00:39:05.576Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results false
+[2023-02-19T00:39:05.493Z] [debug] [sin test] [PaymentProcessor] : PP> minPayment = SIN TEST
+[2023-02-19T00:39:05.570Z] [debug] [sin test] [PaymentProcessor] : PP> paymentInterval = SIN TEST
+[2023-02-19T00:39:05.571Z] [debug] [sin test] [PaymentProcessor] : PP> Validating address and balance
+[2023-02-19T00:39:05.576Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with payment processing daemon {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:39:05.576Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> There was error during payment processor setup true
+[2023-02-19T00:39:05.577Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-02-19T00:39:05.575Z] [info] [system] [Website] : Starting Website module
+[2023-02-19T00:39:05.577Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-02-19T00:39:05.579Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-02-19T00:39:05.579Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-02-19T00:39:05.583Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-02-19T00:39:05.591Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-02-19T00:39:05.676Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin test , err = {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:41:11.976Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-02-19T00:41:12.234Z] [debug] [system] [init.js] : Master
+[2023-02-19T00:41:12.574Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-02-19T00:41:12.583Z] [info] [sin test] [Pool [:1]] : Could not start pool, error with init batch RPC call: {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:41:12.584Z] [debug] [sin test] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-02-19T00:41:13.988Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-02-19T00:41:14.776Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-02-19T00:41:14.774Z] [info] [system] [Website] : Starting Website module
+[2023-02-19T00:41:14.778Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-02-19T00:41:14.782Z] [debug] [sin test] [PaymentProcessor] : PP> FEE % = SIN TEST
+[2023-02-19T00:41:14.776Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-02-19T00:41:14.777Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-02-19T00:41:14.778Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-02-19T00:41:14.783Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-02-19T00:41:14.872Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-02-19T00:41:14.780Z] [info] [system] [PaymentProcessing] : PP> Enabled sin test for payment processing
+[2023-02-19T00:41:14.875Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results false
+[2023-02-19T00:41:14.783Z] [debug] [sin test] [PaymentProcessor] : PP> minPayment = SIN TEST
+[2023-02-19T00:41:14.784Z] [debug] [sin test] [PaymentProcessor] : PP> paymentInterval = SIN TEST
+[2023-02-19T00:41:14.784Z] [debug] [sin test] [PaymentProcessor] : PP> Validating address and balance
+[2023-02-19T00:41:14.875Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with payment processing daemon {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:41:14.875Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> There was error during payment processor setup true
+[2023-02-19T00:41:14.883Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin test , err = {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:42:12.820Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with RPC call getmininginfo {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:43:10.878Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with RPC call getmininginfo {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:44:08.936Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with RPC call getmininginfo {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:44:54.079Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-02-19T00:44:54.337Z] [debug] [system] [init.js] : Master
+[2023-02-19T00:44:54.773Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-02-19T00:44:54.780Z] [debug] [sin test] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-02-19T00:44:54.780Z] [info] [sin test] [Pool [:1]] : Could not start pool, error with init batch RPC call: {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:44:56.090Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-02-19T00:44:57.075Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-02-19T00:44:57.079Z] [debug] [sin test] [PaymentProcessor] : PP> FEE % = SIN TEST
+[2023-02-19T00:44:57.080Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-02-19T00:44:57.079Z] [info] [system] [Website] : Starting Website module
+[2023-02-19T00:44:57.080Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-02-19T00:44:57.081Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-02-19T00:44:57.082Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-02-19T00:44:57.086Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-02-19T00:44:57.076Z] [info] [system] [PaymentProcessing] : PP> Enabled sin test for payment processing
+[2023-02-19T00:44:57.172Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results false
+[2023-02-19T00:44:57.080Z] [debug] [sin test] [PaymentProcessor] : PP> minPayment = SIN TEST
+[2023-02-19T00:44:57.081Z] [debug] [sin test] [PaymentProcessor] : PP> paymentInterval = SIN TEST
+[2023-02-19T00:44:57.081Z] [debug] [sin test] [PaymentProcessor] : PP> Validating address and balance
+[2023-02-19T00:44:57.172Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with payment processing daemon {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:44:57.172Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> There was error during payment processor setup true
+[2023-02-19T00:44:57.178Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-02-19T00:44:57.179Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin test , err = {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:45:55.133Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with RPC call getmininginfo {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:46:53.190Z] [error] [sin test] [PaymentProcessor] : PP>ERROR> Error with RPC call getmininginfo {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:8888"}
+[2023-02-19T00:52:33.196Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-02-19T00:52:33.455Z] [debug] [system] [init.js] : Master
+[2023-02-19T00:52:33.882Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-02-19T00:52:33.886Z] [debug] [sin test] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-02-19T00:52:33.890Z] [info] [sin test] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-02-19T00:52:35.206Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-02-19T00:52:35.585Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-02-19T00:52:35.583Z] [info] [system] [Website] : Starting Website module
+[2023-02-19T00:52:35.585Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-02-19T00:52:35.587Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-02-19T00:52:35.587Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-02-19T00:52:35.593Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-02-19T00:52:35.600Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-02-19T00:52:35.674Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin test , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
+[2023-02-19T00:56:27.103Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-02-19T00:56:27.426Z] [debug] [system] [init.js] : Master
+[2023-02-19T00:56:27.775Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-02-19T00:56:27.785Z] [debug] [sin test] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-02-19T00:56:27.789Z] [info] [sin test] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-02-19T00:56:29.178Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-02-19T00:56:29.506Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-02-19T00:56:29.505Z] [info] [system] [Website] : Starting Website module
+[2023-02-19T00:56:29.506Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-02-19T00:56:29.508Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-02-19T00:56:29.508Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-02-19T00:56:29.573Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-02-19T00:56:29.580Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-02-19T00:56:29.590Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin test , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
