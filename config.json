@@ -1,13 +1,13 @@
 {
     
-    "poolname": "SINNeoxa Pool",
+    "poolname": "SIN testnet Pool",
     
     "devmode": false,
     "devmodePayMinimim": 0.25,
     "devmodePayInterval": 120,
     
     "logips": true,       
-    "anonymizeips": true,
+    "anonymizeips": false,
     "ipv4bits": 16,
     "ipv6bits": 16,
     "poolwarningmsg": "",
@@ -48,7 +48,7 @@
         "validateWorkerUsername": true,
         "tcpProxyProtocol": false,
         "banning": {
-            "enabled": true,
+            "enabled": false,
             "time": 600,
             "invalidPercent": 50,
             "checkThreshold": 500,
