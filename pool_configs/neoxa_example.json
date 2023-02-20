@@ -2,21 +2,21 @@
     "enabled": true,
     "coin": "neoxa.json",
 
-    "address": "GXUJSRkFHc6AJXMRyZTcA1xorKkXpU2RRe",
+    "address": "SYpVHdrzhB2FckyTJiuuX19MKBbAyTgZsE",
     
-    "donateaddress": "GXUJSRkFHc6AJXMRyZTcA1xorKkXpU2RRe",
+    "donateaddress": "SYpVHdrzhB2FckyTJiuuX19MKBbAyTgZsE",
 
     "rewardRecipients": {
-	    "GXUJSRkFHc6AJXMRyZTcA1xorKkXpU2RRe":0.5
+	    "SYpVHdrzhB2FckyTJiuuX19MKBbAyTgZsE":0.5
     },
 
     "paymentProcessing": {
         "enabled": false,
         "schema": "PROP",
-        "paymentInterval": 300,
-        "minimumPayment": 5,
-        "maxBlocksPerPayment": 50000,
-        "minConf": 30,
+        "paymentInterval": 120,
+        "minimumPayment": 120,
+        "maxBlocksPerPayment": 50,
+        "minConf": 10,
         "coinPrecision": 8,
         "daemon": {
             "host": "127.0.0.1",
@@ -28,9 +28,9 @@
 
     "ports": {
 		"10001": {
-            "diff": 0.5,
+            "diff": 0.0002802856480062189,
     	    "varDiff": {
-    	        "minDiff": 0.001,
+    	        "minDiff": 0.00000001,
     	        "maxDiff": 32,
     	        "targetTime": 10,
     	        "retargetTime": 60,
