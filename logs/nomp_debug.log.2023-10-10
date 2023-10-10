@@ -1,0 +1,725 @@
+[2023-10-10T00:35:23.550Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T00:35:23.836Z] [debug] [system] [init.js] : Master
+[2023-10-10T00:35:24.569Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:25.598Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:20971
+[2023-10-10T00:35:26.274Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:26.262Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:26.301Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:26.312Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:26.349Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:26.355Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:27.202Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:27.228Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:28.964Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:28.959Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:29.035Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:29.045Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:29.399Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:29.425Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:29.958Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:29.985Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:32.221Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:32.233Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:32.262Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:32.326Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:32.321Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:32.392Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:32.798Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:32.823Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:34.926Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:34.942Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:34.973Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:35.121Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:35.116Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:35.213Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:35.539Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:35.566Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:37.624Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:37.637Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:37.668Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:38.020Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:38.015Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:38.109Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:38.402Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:38.430Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:40.244Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:40.254Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:40.314Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:40.791Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:40.786Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:40.864Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:41.129Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:41.153Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:42.853Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:42.864Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:42.901Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:43.480Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:43.475Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:43.729Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:43.832Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:43.854Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:45.544Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:45.555Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:45.584Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:46.478Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:46.472Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:46.565Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:46.606Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:46.637Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:48.191Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:48.202Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:48.233Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:49.159Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:49.155Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:49.310Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:49.327Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:49.345Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:50.856Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:50.867Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:50.904Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:52.055Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:52.079Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:52.105Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:52.099Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:52.166Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:53.524Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:53.555Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:53.591Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:54.861Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:54.828Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:54.821Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:55.212Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:55.229Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:56.256Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:56.270Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:56.326Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:57.817Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:35:57.841Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:35:57.873Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:35:57.877Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:35:57.937Z] [error] [system] [init.js] : Master
+[2023-10-10T00:35:58.920Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:35:58.931Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:35:58.969Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:00.594Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:00.616Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:00.670Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:00.667Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:00.733Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:01.627Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:01.641Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:01.677Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:03.345Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:03.373Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:03.419Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:03.416Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:03.481Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:04.328Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:04.349Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:04.400Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:06.168Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:06.261Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:06.254Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:06.585Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:06.589Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:07.213Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:07.226Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:07.263Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:09.232Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:09.220Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:09.214Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:09.589Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:09.591Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:10.193Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:10.203Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:10.257Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:12.290Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:12.340Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:12.331Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:12.325Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:12.401Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:12.927Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:12.938Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:12.984Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:15.036Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:15.092Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:15.225Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:15.221Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:15.337Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:15.706Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:15.716Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:15.793Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:17.673Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:17.689Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:17.931Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:17.927Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:18.085Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:18.451Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:18.463Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:18.495Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:20.368Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:20.434Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:20.872Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:20.866Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:20.943Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:21.214Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:21.227Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:21.282Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:23.421Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:23.605Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:23.880Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:23.876Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:24.065Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:24.092Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:24.106Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:24.156Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:26.542Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:26.609Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:27.192Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:27.203Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:27.305Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:27.166Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:27.158Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:27.353Z] [error] [system] [init.js] : Master
+[2023-10-10T00:36:29.364Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:29.384Z] [error] [system] [init.js] : PoolSpawner: Fork 0 died, spawning replacement worker...
+[2023-10-10T00:36:30.352Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:30.349Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:30.353Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T00:36:30.357Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T00:36:30.359Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T00:36:30.388Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T00:36:30.428Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T00:36:30.559Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:30.570Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:30.565Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T00:36:30.573Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T00:36:30.574Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T00:36:30.575Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T00:36:32.097Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:32.110Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T00:36:57.170Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T00:36:57.449Z] [debug] [system] [init.js] : Master
+[2023-10-10T00:36:58.013Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:36:58.034Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T00:36:58.035Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init batch RPC call: {"type":"offline","message":"connect ECONNREFUSED 127.0.0.1:20971"}
+[2023-10-10T00:36:59.220Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:20971
+[2023-10-10T00:36:59.904Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:36:59.916Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:36:59.920Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T00:36:59.921Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T00:36:59.921Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T00:36:59.909Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T00:36:59.949Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:36:59.943Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:36:59.960Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T00:36:59.989Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T00:36:59.999Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T00:36:59.950Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T00:36:59.957Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T00:50:33.994Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T00:50:34.278Z] [debug] [system] [init.js] : Master
+[2023-10-10T00:50:34.858Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:50:34.875Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T00:50:35.126Z] [info] [sin main] [Pool [:1]] : Unauthorized RPC access - invalid RPC username or password
+[2023-10-10T00:50:36.042Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-10-10T00:50:36.693Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:50:36.706Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:50:36.697Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T00:50:36.709Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T00:50:36.710Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T00:50:36.711Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T00:50:36.738Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results true
+[2023-10-10T00:50:36.740Z] [info] [system] [PaymentProcessing] : PP> Payment processing setup to run every 120 second(s) with daemon (rpcuser8@127.0.0.1:20971) and redis (127.0.0.1:6379)
+[2023-10-10T00:50:36.737Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> getbalance RPC reply is being tested for validity
+[2023-10-10T00:50:36.737Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> daemon wallet balance >= 0.0 PASSED - JSON: 0
+[2023-10-10T00:50:36.774Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:50:36.770Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:50:36.775Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T00:50:36.777Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T00:50:36.779Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T00:50:36.802Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T00:50:36.811Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T00:50:36.839Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T00:50:36.844Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T00:50:36.845Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T00:50:36.846Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:50:36.847Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:50:36.848Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T00:50:36.849Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T00:50:36.853Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T00:50:36.857Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin main , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
+[2023-10-10T00:50:36.854Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:50:36.855Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:50:36.856Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T00:50:36.859Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T00:50:36.860Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T00:50:36.861Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T00:50:36.863Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T00:50:36.863Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T00:50:36.864Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T00:50:36.865Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T00:50:36.869Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T00:50:36.869Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 30 ms total, 5 ms redis, 12 ms daemon RPC
+[2023-10-10T00:52:36.741Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T00:52:36.742Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T00:52:36.745Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T00:52:36.745Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T00:52:36.745Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:52:36.746Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:52:36.746Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T00:52:36.746Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T00:52:36.748Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T00:52:36.749Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:52:36.749Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:52:36.749Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T00:52:36.750Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T00:52:36.751Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T00:52:36.751Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T00:52:36.751Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T00:52:36.752Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T00:52:36.752Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T00:52:36.752Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T00:52:36.753Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T00:52:36.753Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 12 ms total, 4 ms redis, 6 ms daemon RPC
+[2023-10-10T00:54:36.748Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T00:54:36.750Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T00:54:36.752Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T00:54:36.753Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T00:54:36.753Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:54:36.754Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:54:36.755Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T00:54:36.755Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T00:54:36.761Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T00:54:36.762Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:54:36.762Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:54:36.762Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T00:54:36.763Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T00:54:36.764Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T00:54:36.764Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T00:54:36.764Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T00:54:36.765Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T00:54:36.765Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T00:54:36.765Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T00:54:36.765Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T00:54:36.766Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 18 ms total, 5 ms redis, 12 ms daemon RPC
+[2023-10-10T00:55:39.254Z] [error] [sin main] [ShareProcessor [:0]] : Pool
+[2023-10-10T00:55:39.464Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T00:56:36.756Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T00:56:36.757Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T00:56:36.760Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T00:56:36.760Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T00:56:36.761Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:56:36.761Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:56:36.762Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T00:56:36.762Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T00:56:36.768Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T00:56:36.769Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:56:36.772Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:56:36.772Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T00:56:36.775Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T00:56:36.775Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T00:56:36.775Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T00:56:36.775Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T00:56:36.776Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T00:56:36.776Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T00:56:36.776Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T00:56:36.776Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T00:56:36.777Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 21 ms total, 4 ms redis, 11 ms daemon RPC
+[2023-10-10T00:57:25.179Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T00:57:25.464Z] [debug] [system] [init.js] : Master
+[2023-10-10T00:57:26.086Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:57:26.100Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T00:57:26.352Z] [info] [sin main] [Pool [:1]] : Unauthorized RPC access - invalid RPC username or password
+[2023-10-10T00:57:27.230Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-10-10T00:57:27.878Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:57:27.874Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:57:27.879Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T00:57:27.882Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T00:57:27.884Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T00:57:27.912Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T00:57:27.927Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T00:57:27.906Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:57:27.918Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:57:27.910Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T00:57:27.921Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T00:57:27.922Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T00:57:27.923Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T00:57:27.952Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results true
+[2023-10-10T00:57:27.954Z] [info] [system] [PaymentProcessing] : PP> Payment processing setup to run every 120 second(s) with daemon (rpcuser8@127.0.0.1:20971) and redis (127.0.0.1:6379)
+[2023-10-10T00:57:27.951Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> getbalance RPC reply is being tested for validity
+[2023-10-10T00:57:27.951Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> daemon wallet balance >= 0.0 PASSED - JSON: 0
+[2023-10-10T00:57:27.965Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin main , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
+[2023-10-10T00:57:28.054Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T00:57:28.059Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T00:57:28.060Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T00:57:28.061Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:57:28.061Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:57:28.061Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T00:57:28.065Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T00:57:28.071Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T00:57:28.071Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:57:28.072Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:57:28.072Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T00:57:28.075Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T00:57:28.075Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T00:57:28.076Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T00:57:28.077Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T00:57:28.077Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T00:57:28.077Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T00:57:28.078Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T00:57:28.080Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T00:57:28.080Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 27 ms total, 7 ms redis, 15 ms daemon RPC
+[2023-10-10T00:59:36.083Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T00:59:36.364Z] [debug] [system] [init.js] : Master
+[2023-10-10T00:59:36.883Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T00:59:36.918Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T00:59:37.159Z] [info] [sin main] [Pool [:1]] : Unauthorized RPC access - invalid RPC username or password
+[2023-10-10T00:59:38.117Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-10-10T00:59:38.682Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T00:59:38.697Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T00:59:38.688Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T00:59:38.701Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T00:59:38.702Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T00:59:38.703Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T00:59:38.758Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> getbalance RPC reply is being tested for validity
+[2023-10-10T00:59:38.760Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results true
+[2023-10-10T00:59:38.759Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> daemon wallet balance >= 0.0 PASSED - JSON: 0
+[2023-10-10T00:59:38.761Z] [info] [system] [PaymentProcessing] : PP> Payment processing setup to run every 120 second(s) with daemon (rpcuser8@127.0.0.1:20971) and redis (127.0.0.1:6379)
+[2023-10-10T00:59:38.732Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T00:59:38.727Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T00:59:38.732Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T00:59:38.736Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T00:59:38.738Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T00:59:38.761Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T00:59:38.778Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T00:59:38.836Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin main , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
+[2023-10-10T00:59:38.860Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T00:59:38.863Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T00:59:38.864Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T00:59:38.864Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:59:38.865Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:59:38.865Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T00:59:38.865Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T00:59:38.869Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T00:59:38.869Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T00:59:38.870Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T00:59:38.870Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T00:59:38.872Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T00:59:38.872Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T00:59:38.872Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T00:59:38.873Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T00:59:38.874Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T00:59:38.874Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T00:59:38.874Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T00:59:38.877Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T00:59:38.877Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 17 ms total, 4 ms redis, 8 ms daemon RPC
+[2023-10-10T01:03:30.913Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:03:31.208Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:03:31.769Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:03:31.804Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:03:31.827Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:03:32.982Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-10-10T01:03:33.545Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T01:03:33.560Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T01:03:33.551Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T01:03:33.564Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T01:03:33.566Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T01:03:33.566Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T01:03:33.636Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> getbalance RPC reply is being tested for validity
+[2023-10-10T01:03:33.638Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results true
+[2023-10-10T01:03:33.637Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> daemon wallet balance >= 0.0 PASSED - JSON: 0
+[2023-10-10T01:03:33.641Z] [info] [system] [PaymentProcessing] : PP> Payment processing setup to run every 120 second(s) with daemon (rpcuser8@127.0.0.1:20971) and redis (127.0.0.1:6379)
+[2023-10-10T01:03:33.636Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T01:03:33.630Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T01:03:33.637Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T01:03:33.641Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T01:03:33.643Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T01:03:33.666Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T01:03:33.686Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T01:03:33.729Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin main , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
+[2023-10-10T01:03:33.739Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:03:33.742Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:03:33.742Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:03:33.743Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:03:33.743Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:03:33.743Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:03:33.743Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:03:33.747Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:03:33.748Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:03:33.748Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:03:33.749Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:03:33.751Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:03:33.751Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:03:33.751Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:03:33.752Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:03:33.753Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:03:33.753Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:03:33.753Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:03:33.756Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:03:33.757Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 17 ms total, 4 ms redis, 8 ms daemon RPC
+[2023-10-10T01:05:33.643Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:05:33.645Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T01:05:33.648Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:05:33.649Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:05:33.649Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:05:33.650Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:05:33.651Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:05:33.651Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:05:33.656Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:05:33.656Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:05:33.657Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:05:33.657Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:05:33.658Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:05:33.659Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:05:33.659Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:05:33.659Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:05:33.659Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:05:33.660Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:05:33.660Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:05:33.661Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:05:33.661Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 18 ms total, 6 ms redis, 12 ms daemon RPC
+[2023-10-10T01:07:33.650Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:07:33.652Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T01:07:33.653Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:07:33.653Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:07:33.654Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:07:33.654Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:07:33.655Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:07:33.655Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:07:33.658Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:07:33.658Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:07:33.658Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:07:33.659Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:07:33.659Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:07:33.660Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:07:33.660Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:07:33.660Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:07:33.660Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:07:33.660Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:07:33.661Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:07:33.661Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:07:33.661Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 11 ms total, 2 ms redis, 7 ms daemon RPC
+[2023-10-10T01:09:33.663Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:09:33.668Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T01:09:33.670Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:09:33.670Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:09:33.671Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:09:33.671Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:09:33.671Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:09:33.672Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:09:33.677Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:09:33.678Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:09:33.678Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:09:33.678Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:09:33.680Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:09:33.680Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:09:33.680Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:09:33.681Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:09:33.681Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:09:33.681Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:09:33.681Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:09:33.684Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:09:33.684Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 21 ms total, 6 ms redis, 12 ms daemon RPC
+[2023-10-10T01:11:33.679Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:11:33.680Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T01:11:33.682Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:11:33.682Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:11:33.682Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:11:33.683Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:11:33.683Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:11:33.684Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:11:33.696Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:11:33.697Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:11:33.697Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:11:33.698Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:11:33.702Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:11:33.702Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:11:33.703Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:11:33.704Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:11:33.704Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:11:33.705Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:11:33.705Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:11:33.706Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:11:33.706Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 27 ms total, 4 ms redis, 16 ms daemon RPC
+[2023-10-10T01:13:33.699Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:13:33.700Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T01:13:33.702Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:13:33.702Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:13:33.703Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:13:33.704Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:13:33.704Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:13:33.705Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:13:33.710Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:13:33.711Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:13:33.711Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:13:33.712Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:13:33.713Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:13:33.714Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:13:33.714Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:13:33.714Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:13:33.715Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:13:33.715Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:13:33.715Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:13:33.716Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:13:33.716Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 17 ms total, 3 ms redis, 10 ms daemon RPC
+[2023-10-10T01:15:33.723Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:15:33.724Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T01:15:33.725Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:15:33.726Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:15:33.726Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:15:33.726Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:15:33.727Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:15:33.727Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:15:33.731Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:15:33.732Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:15:33.732Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:15:33.732Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:15:33.736Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:15:33.736Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:15:33.736Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:15:33.737Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:15:33.737Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:15:33.737Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:15:33.738Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:15:33.738Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:15:33.739Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 16 ms total, 5 ms redis, 8 ms daemon RPC
+[2023-10-10T01:17:18.386Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:17:18.669Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:17:19.284Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:17:19.301Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:17:19.313Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:17:21.161Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:17:21.453Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:17:22.146Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:17:22.156Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:17:22.162Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:17:24.007Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:17:24.286Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:17:24.889Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:17:24.909Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:17:24.924Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:17:26.974Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:17:27.260Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:17:27.875Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:17:27.887Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:17:27.894Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:17:33.734Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:17:33.739Z] [info] [sin main] [PaymentProcessor] : PP> Set up to process payments every 120 seconds
+[2023-10-10T01:17:33.741Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:17:33.742Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:17:33.742Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:17:33.742Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:17:33.743Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:17:33.743Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:17:33.749Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:17:33.750Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:17:33.750Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:17:33.750Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:17:33.752Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:17:33.752Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:17:33.752Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:17:33.753Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:17:33.753Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:17:33.753Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:17:33.753Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:17:33.756Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:17:33.756Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 24 ms total, 5 ms redis, 12 ms daemon RPC
+[2023-10-10T01:18:11.762Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:18:12.059Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:18:12.664Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:18:12.688Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:18:12.703Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:18:46.487Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:18:46.772Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:18:47.338Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:18:47.361Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:18:47.375Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:19:36.512Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:19:36.801Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:19:37.358Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:19:37.378Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:19:37.389Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:19:38.574Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-10-10T01:19:39.131Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T01:19:39.141Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T01:19:39.126Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T01:19:39.122Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T01:19:39.136Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T01:19:39.144Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T01:19:39.146Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T01:19:39.146Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T01:19:39.193Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> getbalance RPC reply is being tested for validity
+[2023-10-10T01:19:39.194Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results true
+[2023-10-10T01:19:39.194Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> daemon wallet balance >= 0.0 PASSED - JSON: 0
+[2023-10-10T01:19:39.196Z] [info] [system] [PaymentProcessing] : PP> Payment processing setup to run every 120 second(s) with daemon (rpcuser8@127.0.0.1:20971) and redis (127.0.0.1:6379)
+[2023-10-10T01:19:39.127Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T01:19:39.130Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T01:19:39.131Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T01:19:39.153Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T01:19:39.193Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T01:19:39.235Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin main , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
+[2023-10-10T01:19:39.296Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:19:39.301Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:19:39.302Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:19:39.303Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:19:39.303Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:19:39.304Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:19:39.305Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:19:39.312Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:19:39.312Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:19:39.312Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:19:39.313Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:19:39.314Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:19:39.314Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:19:39.315Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:19:39.315Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:19:39.316Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:19:39.316Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:19:39.316Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:19:39.318Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:19:39.319Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 23 ms total, 6 ms redis, 14 ms daemon RPC
+[2023-10-10T01:20:27.101Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-10-10T01:20:27.399Z] [debug] [system] [init.js] : Master
+[2023-10-10T01:20:27.939Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-10-10T01:20:27.959Z] [debug] [sin main] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-10-10T01:20:27.970Z] [info] [sin main] [Pool [:1]] : Could not start pool, error with init RPC getinfo - {"code":-32601,"message":"Method not found"}
+[2023-10-10T01:20:29.155Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-10-10T01:20:29.748Z] [info] [system] [PaymentProcessing] : PP> Payment processor worker started
+[2023-10-10T01:20:29.759Z] [debug] [sin main] [PaymentProcessor] : PP> FEE % = SIN MAIN
+[2023-10-10T01:20:29.752Z] [info] [system] [PaymentProcessing] : PP> Enabled sin main for payment processing
+[2023-10-10T01:20:29.762Z] [debug] [sin main] [PaymentProcessor] : PP> minPayment = SIN MAIN
+[2023-10-10T01:20:29.763Z] [debug] [sin main] [PaymentProcessor] : PP> paymentInterval = SIN MAIN
+[2023-10-10T01:20:29.764Z] [debug] [sin main] [PaymentProcessor] : PP> Validating address and balance
+[2023-10-10T01:20:29.816Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> getbalance RPC reply is being tested for validity
+[2023-10-10T01:20:29.817Z] [debug] [system] [PaymentProcessing] : PP> Payment processor initialized. Setup results true
+[2023-10-10T01:20:29.816Z] [debug] [sin main] [PaymentProcessor] : PP>WARN> daemon wallet balance >= 0.0 PASSED - JSON: 0
+[2023-10-10T01:20:29.819Z] [info] [system] [PaymentProcessing] : PP> Payment processing setup to run every 120 second(s) with daemon (rpcuser8@127.0.0.1:20971) and redis (127.0.0.1:6379)
+[2023-10-10T01:20:29.814Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-10-10T01:20:29.809Z] [info] [system] [Website] : Starting Website module
+[2023-10-10T01:20:29.815Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-10-10T01:20:29.820Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-10-10T01:20:29.822Z] [debug] [system] [Website] : Loaded EXAMPLE news_example.html
+[2023-10-10T01:20:29.847Z] [info] [system] [Website] : WEBSITE> Attempting to start Website on 0.0.0.0:80
+[2023-10-10T01:20:29.886Z] [info] [system] [Website] : WEBSITE> Website started on 0.0.0.0:80
+[2023-10-10T01:20:29.911Z] [error] [system] [Website] : WEBSITE> Could not dumpprivkey for sin main , err = {"code":-4,"message":"Only legacy wallets are supported by this command"}
+[2023-10-10T01:20:29.918Z] [debug] [sin main] [PaymentProcessor] : WATERFALL START - Calling redis for array of rounds
+[2023-10-10T01:20:29.920Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Redis responsed: [null,[]]
+[2023-10-10T01:20:29.921Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Prepared info basic info about payments
+[2023-10-10T01:20:29.921Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:20:29.921Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:20:29.921Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Workers count: 0 Rounds: 0
+[2023-10-10T01:20:29.922Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Checking for confirmed rounds (blocks)
+[2023-10-10T01:20:29.929Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Wokers and rounds after filtering orphans etc.
+[2023-10-10T01:20:29.930Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> workers = {}
+[2023-10-10T01:20:29.930Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> rounds = []
+[2023-10-10T01:20:29.931Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Getting all shares for rounds and calculating rewards for miners
+[2023-10-10T01:20:29.933Z] [debug] [sin main] [PaymentProcessor] : WATERFALL> Mapping workers into payout addresses
+[2023-10-10T01:20:29.933Z] [debug] [sin main] [PaymentProcessor] : PP> Merged workers into payout addresses
+[2023-10-10T01:20:29.934Z] [debug] [sin main] [PaymentProcessor] : PP> Almost ready to send funds, calculating against existing balances
+[2023-10-10T01:20:29.934Z] [debug] [sin main] [PaymentProcessor] : PP> Trying to send
+[2023-10-10T01:20:29.935Z] [debug] [sin main] [PaymentProcessor] : PP> withholdPercent = 0
+[2023-10-10T01:20:29.935Z] [debug] [sin main] [PaymentProcessor] : PP> totalSent = 0
+[2023-10-10T01:20:29.935Z] [info] [sin main] [PaymentProcessor] : PP> No workers was chosen for paying out
+[2023-10-10T01:20:29.938Z] [debug] [sin main] [PaymentProcessor] : PP> WATERFALL RESULT: PP> Nothing to write to redis
+[2023-10-10T01:20:29.939Z] [debug] [sin main] [PaymentProcessor] : PP> FINISHED PAYMENT INTERVAL - time spent: 21 ms total, 4 ms redis, 11 ms daemon RPC

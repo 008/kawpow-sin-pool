@@ -153,11 +153,11 @@ module.exports = function () {
 					})();
 					var daemon = new Stratum.daemon.interface([coinInfo.daemon], logger);
 					daemon.cmd('dumpprivkey', [coinInfo.address], function (result) {
-						if (result[0].error) {
-							logger.error('WEBSITE> Could not dumpprivkey for %s , err = %s', c, JSON.stringify(result[0].error));
-							cback();
-							return;
-						}
+						// if (result[0].error) {
+						// 	logger.error('WEBSITE> Could not dumpprivkey for %s , err = %s', c, JSON.stringify(result[0].error));
+						// 	cback();
+						// 	return;
+						// }
 						var vBytePub = util.getVersionByte(coinInfo.address)[0];
 						var vBytePriv = util.getVersionByte(result[0].response)[0];
 						coinBytes[c] = vBytePub.toString() + ',' + vBytePriv.toString();
