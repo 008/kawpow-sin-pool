@@ -4,17 +4,14 @@
 
     "address": "Sh7NhjBXK89fxzAFqJzWYBWXL8GRWkitDP",
     
-    "donateaddress": "Sh7NhjBXK89fxzAFqJzWYBWXL8GRWkitDP",
+    "donateaddress": "SXk1XoDmWXqCSLdngdawGQV4LGPLZrvyvr",
 
-    "rewardRecipients": {
-	    "Sh7NhjBXK89fxzAFqJzWYBWXL8GRWkitDP":0.5
-    },
-
+    
     "paymentProcessing": {
         "enabled": true,
         "schema": "PROP",
         "paymentInterval": 120,
-        "minimumPayment": 120,
+        "minimumPayment": 5,
         "maxBlocksPerPayment": 50,
         "minConf": 10,
         "coinPrecision": 8,
@@ -39,7 +36,7 @@
     	    }
         },
 		"10002": {
-            "diff": 0.5,
+            "diff": 0.35,
     	    "varDiff": {
     	        "minDiff": 0.01,
     	        "maxDiff": 32,
@@ -50,7 +47,7 @@
     	    }
         },
 		"10003": {
-            "diff": 0.10,
+            "diff": 0.5,
     	    "varDiff": {
     	        "minDiff": 0.1,
     	        "maxDiff": 32,
@@ -61,7 +58,7 @@
     	    }
         },
 		"10004": {
-            "diff": 0.15,
+            "diff": 0.10,
     	    "varDiff": {
     	        "minDiff": 0.5,
     	        "maxDiff": 32,
