@@ -1,7 +1,7 @@
 {
     "name": "sin main",    
     "symbol": "SIN",    
-    "algorithm": "kawpow",
+    "algorithm": "x25x",
     
     "wallet": "https://github.com/RavenProject/Ravencoin/releases",
 
